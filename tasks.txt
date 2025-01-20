@@ -22,11 +22,11 @@
 
 ----- After Some update on your project add code in your github To Do Task ------
 
-1. Firstly add your update code 
-*  write (git add --all or git add .)
+        1. Firstly add your update code 
+        *  write (git add --all or git add .)
 
-2. Secondly Write a commite which features you update on your code
-*  write (git commit -m "write your message")
+        2. Secondly Write a commite which features you update on your code
+        *  write (git commit -m "write your message")
 
-3. Push the code in github 
-*  write (git push origin)
+        3. Push the code in github 
+        *  write (git push origin)
