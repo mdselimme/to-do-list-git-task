@@ -1,0 +1,19 @@
+-- Git and Github First Time code add To Do Task --
+
+1. Firsty initialize your file
+  * write (git init) in your command panel
+
+2. Secondly add your file 
+  * write (git add "file name" or git add --all)
+
+3. Write a commit 
+  * write (git commit -m "write your message")
+
+4. Moved to main branch 
+  * write (git branch -M main)
+
+5. Connect your github repo on your project 
+  * write (git remote add origin "link of your repository" )
+
+6. At last upload your code in github
+  * write (git push -u origin "your branch name")
