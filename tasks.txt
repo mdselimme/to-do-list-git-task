@@ -1,4 +1,4 @@
------- Git and Github First Time code add To Do Task ------
+------ Git and Github First Time code add To Do Task I update this bonus Challange Feature A ------
 
         1. Firstly initialize your file
         * write (git init) in your command panel
@@ -22,7 +22,7 @@
 
 ----- After Some update on your project add code in your github To Do Task ------
 
-        1. Firstly add your update code 
+        1. Firstly add your update code I update this for bonus challenge. For feature A
         *  write (git add --all or git add .)
 
         2. Secondly Write a commite which features you update on your code
